@@ -1,5 +1,5 @@
-# mandelbrot_fractal
- Optimised renderer of mandelbrot fractal
+# mandelbrot-fractal
+ Optimised and detailed renderer of mandelbrot fractal
  
  Executable file in application.windows folders.
  
@@ -7,4 +7,4 @@
  
  Controls:
  1) Scroll down or press W to zoom in at cursor location
- 2) Scroll up or press S to zoom our
+ 2) Scroll up or press S to zoom out
